@@ -1,5 +1,5 @@
 <h1 align="center">Assignments/Homework</h1>
-<h2 align="center">(18th Jan - 4th Feb)</h2>
+<h2 align="center">(25th Jan - 4th Feb)</h2>
 
 ### **1. <u>Biology</u>**
 
@@ -19,9 +19,9 @@
 
 - _CHM111_
   
-  > Write a summary of the Lecture 3 and <u>mail</u> it to chm111.iiserm@gmail.com as a PDF file.
+  > Write a summary of the Lecture 4 and <u>mail</u> it to chm111.iiserm@gmail.com as a PDF file.
   > 
-  > Deadline - 25th Jan, before class
+  > Deadline - 1st Feb, before class
 
 ### **3. <u>Physics</u>**
 
@@ -51,13 +51,13 @@
 
 - _HSS101B_
   
-  > --
+  > Read [this](https://www.theguardian.com/technology/2013/jul/14/how-selfies-became-a-global-phenomenon) article before 27th Jan's class.
 
 ### **6. <u>Interdisciplinary Course</u>**
 
 - _IDC101_
   
-  > _Try_ to write an algorithm to get a sum of all prime numbers from 1 to 100
+  > --
 
 
 ---
