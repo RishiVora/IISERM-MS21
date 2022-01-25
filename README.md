@@ -7,6 +7,8 @@
 
 <h2 align="center">Important notifications / Extra classes</h2>
 
+- PHY111 class for 27th Jan is cancelled.
+
 - Refer to the official group.
 
 ---
